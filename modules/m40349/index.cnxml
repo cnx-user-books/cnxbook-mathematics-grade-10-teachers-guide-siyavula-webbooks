@@ -1,0 +1,425 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Overview</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m40349</md:content-id>
+  <md:title>Overview</md:title>
+  <md:abstract>This section provides an overview of the Siyavula Grade 10 Mathematics WebBook.</md:abstract>
+  <md:uuid>468c3a4a-9724-4438-93d3-e97d20ed849c</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1172465708804">
+      <title>Overview</title>
+      <section id="id1172471189138">
+        <title>Curriculum Overview</title>
+        <para id="id1172466227282">Before 1994 there existed a number of education departments and subsequent curriculum according to the segregation that was so evident during the apartheid years. As a result, the curriculum itself became one of the political icons of freedom or suppression. Since then the government and political leaders have sought to try and develop one curriculum that is aligned with our national agenda of democratic freedom and equality for all, in fore-grounding the knowledge, skills and values our country believes our learners need to acquire and apply, in order to participate meaningfully in society as citizens of a free country. The National Curriculum Statement (NCS) of Grades R – 12 (DoE, 2011) therefore serves the purposes of: </para>
+        <list id="id1172478212826" list-type="bulleted">
+          <item>equipping learners, irrespective of their socio-economic background, race, gender, physical ability or intellectual ability, with the knowledge, skills and values necessary for self-fulfilment, and meaningful participation in society as citizens of a free country; </item>
+          <item>providing access to higher education; </item>
+          <item>facilitating the transition of learners from education institutions to the workplace; and </item>
+          <item>providing employers with a sufficient profile of a learner’s competencies. </item>
+        </list>
+        <para id="id1172466698650">Although elevated to the status of political icon, the curriculum remains a tool that requires the skill of an educator in interpreting and operationalising this tool within the classroom. The curriculum itself cannot accomplish the purposes outlined above without the community of curriculum specialists, material developers, educators and assessors contributing to and supporting the process, of the intended curriculum becoming the implemented curriculum. A curriculum can succeed or fail, depending on its implementation, despite its intended principles or potential on paper. It is therefore important that stakeholders of the curriculum are familiar with and aligned to the following principles that the NCS is based on: </para>
+        <table id="id1172468958398" summary="Principle in implementation for CAPS">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Principle</emphasis></entry>
+                <entry><emphasis effect="bold">Implementation</emphasis></entry>
+              </row>
+              <row>
+                <entry>Social Transformation</entry>
+                <entry>Redressing imbalances of the past.Providing equal opportunities for all.</entry>
+              </row>
+              <row>
+                <entry>Active and Critical Learning</entry>
+                <entry>Encouraging an active and critical approach to learning.Avoiding excessive rote and uncritical learning of given truths.</entry>
+              </row>
+              <row>
+                <entry>High Knowledge and Skills</entry>
+                <entry>Learners achieve minimum standards of knowledge and skills specified for each grade in each subject.</entry>
+              </row>
+              <row>
+                <entry>Progression</entry>
+                <entry>Content and context shows progression from simple to complex. </entry>
+              </row>
+              <row>
+                <entry>Social and Environmental Justice and Human Rights</entry>
+                <entry>These practices as defined in the Constitution are infused into the teaching and learning of each of the subjects.</entry>
+              </row>
+              <row>
+                <entry>Valuing Indigenous Knowledge Systems</entry>
+                <entry>Acknowledging the rich history and heritage of this country.</entry>
+              </row>
+              <row>
+                <entry>Credibility, Quality and Efficiency</entry>
+                <entry>Providing an education that is globally comparable in quality. </entry>
+              </row>
+            </tbody>
+          
+</tgroup>
+</table>
+        <para id="id1172473613844">This guide is intended to add value and insight to the existing National Curriculum for Grade 10 Mathematics, in line with its purposes and principles. It is hoped that this will assist you as the educator in optimising the implementation of the intended curriculum. </para>
+      </section>
+      <section id="id1172459911526">
+        <title>Curriculum Requirements and Objectives</title>
+        <para id="id1172470542620">The main objectives of the curriculum relate to the learners that emerge from our educational system. While educators are the most important stakeholders in the implementation of the intended curriculum, the quality of learner coming through this curriculum will be evidence of the actual attained curriculum from what was intended and then implemented. </para>
+        <para id="id2115924">These purposes and principles aim to produce learners that are able to: </para>
+        <list id="id1172456216904" list-type="bulleted">
+          <item>identify and solve problems and make decisions using critical and creative thinking; </item>
+          <item>work effectively as individuals and with others as members of a team; </item>
+          <item>organise and manage themselves and their activities responsibly and effectively; </item>
+          <item>collect, analyse, organise and critically evaluate information; </item>
+          <item>communicate effectively using visual, symbolic and/or language skills in various modes; </item>
+          <item>use science and technology effectively and critically showing responsibility towards the environment and the health of others; and </item>
+          <item>demonstrate an understanding of the world as a set of related systems by recognising that problem solving contexts do not exist in isolation. </item>
+        </list>
+        <para id="id1172484522893">The above points can be summarised as an independent learner who can think critically and analytically, while also being able to work effectively with members of a team and identify and solve problems through effective decision making. This is also the outcome of what educational research terms the “reformed” approach rather than the “traditional” approach many educators are more accustomed to. Traditional practices have their role and cannot be totally abandoned in favour of only reform practices. However, in order to produce more independent and mathematical thinkers, the reform ideology needs to be more embraced by educators within their instructional behaviour. Here is a table that can guide you to identify your dominant instructional practice and try to assist you in adjusting it (if necessary) to be more balanced and in line with the reform approach being suggested by the NCS. </para>
+        <table id="id1172465575906" summary="Describes traditional versus reform practices of teaching">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry><emphasis effect="bold">Traditional Versus Reform Practices</emphasis></entry>
+              </row>
+              <row>
+                <entry>Values</entry>
+                <entry><emphasis effect="bold">Traditional</emphasis> – values content, correctness of learners’ responses and mathematical validity of methods.<emphasis effect="bold">Reform </emphasis>– values finding patterns, making connections, communicating mathematically and problem-solving.</entry>
+              </row>
+              <row>
+                <entry>Teaching Methods</entry>
+                <entry><emphasis effect="bold">Traditional </emphasis>– expository, transmission, lots of drill and practice, step by step mastery of algorithms.<emphasis effect="bold">Reform</emphasis> – hands-on guided discovery methods, exploration, modelling. High level reasoning processes are central.</entry>
+              </row>
+              <row>
+                <entry>Grouping Learners</entry>
+                <entry><emphasis effect="bold">Traditional</emphasis> – dominantly same grouping approaches.<emphasis effect="bold">Reform</emphasis> – dominantly mixed grouping and abilities.</entry>
+              </row>
+            </tbody>
+          
+</tgroup>
+</table>
+        <para id="id1172468049219">The subject of mathematics, by the nature of the discipline, provides ample opportunities to meet the reformed objectives. In doing so, the definition of mathematics needs to be understood and embraced by educators involved in the teaching and the learning of the subject. In research it has been well documented that, as educators, our conceptions of what mathematics is, has an influence on our approach to the teaching and learning of the subject. </para>
+        <para id="id1172463874258">Three possible views of mathematics can be presented. The instrumentalist view of mathematics assumes the stance that mathematics is an accumulation of facts, rules and skills that need to be used as a means to an end, without there necessarily being any relation between these components. The Platonist view of mathematics sees the subject as a static but unified body of certain knowledge, in which mathematics is discovered rather than created. The problem solving view of mathematics is a dynamic, continually expanding and evolving field of human creation and invention that is in itself a cultural product. Thus mathematics is viewed as a process of enquiry, not a finished product. The results remain constantly open to revision. It is suggested that a hierarchical order exists within these three views, placing the instrumentalist view at the lowest level and the problem solving view at the highest.</para>
+      </section>
+      <section id="id1172466088697">
+        <title>According to the NCS:</title>
+        <para id="id6890524">Mathematics is the study of quantity, structure, space and change. Mathematicians seek out patterns, formulate new conjectures, and establish axiomatic systems by rigorous deduction from appropriately chosen axioms and definitions. Mathematics is a distinctly human activity practised by all cultures, for thousands of years. Mathematical problem solving enables us to understand the world (physical, social and economic) around us, and, most of all, to teach us to think creatively.</para>
+        <para id="id1172466027380">This corresponds well to the problem solving view of mathematics and may challenge some of our instrumentalist or Platonistic views of mathematics as a static body of knowledge of accumulated facts, rules and skills to be learnt and applied. The NCS is trying to discourage such an approach and encourage mathematics educators to dynamically and creatively involve their learners as mathematicians engaged in a process of study, understanding, reasoning, problem solving and communicating mathematically. </para>
+        <para id="id1172473516862">Below is a check list that can guide you in actively designing your lessons in an attempt to embrace the definition of mathematics from the NCS and move towards a problem solving conception of the subject. Adopting such an approach to the teaching and learning of mathematics will in turn contribute to the intended curriculum being properly implemented and attained through the quality of learners coming out of the education system. </para>
+        <table id="id4766571" summary="A checklist to help you design your lessons to embrace the definition of mathematics">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Practice</emphasis></entry>
+                <entry><emphasis effect="bold">Example</emphasis></entry>
+              </row>
+              <row>
+                <entry>Learners engage in solving contextual problems related to their lives that require them to interpret a problem and then find a suitable mathematical solution. </entry>
+                <entry>Learners are asked to work out which bus service is the cheapest given the fares they charge and the distance they want to travel.</entry>
+              </row>
+              <row>
+                <entry>Learners engage in solving problems of a purely mathematical nature, which require higher order thinking and application of knowledge (non-routine problems).</entry>
+                <entry>Learners are required to draw a graph; they have not yet been given a specific technique on how to draw (for example a parabola), but have learnt to use the table method to draw straight-line graphs.</entry>
+              </row>
+              <row>
+                <entry>Learners are given opportunities to negotiate meaning. </entry>
+                <entry>Learners discuss their understanding of concepts and strategies for solving problems with each other and the educator.</entry>
+              </row>
+              <row>
+                <entry>Learners are shown and required to represent situations in various but equivalent ways (mathematical modelling). </entry>
+                <entry>Learners represent data using a graph, a table and a formula to represent the same data.</entry>
+              </row>
+              <row>
+                <entry>Learners individually do mathematical investigations in class, guided by the educator where necessary. </entry>
+                <entry>Each learner is given a paper containing the mathematical problem (for instance to find the number of prime numbers less than 50) that needs to be investigated and the solution needs to be written up. Learners work independently.</entry>
+              </row>
+              <row>
+                <entry>Learners work together as a group/team to investigate or solve a mathematical problem. </entry>
+                <entry>A group is given the task of working together to solve a problem that requires them investigating patterns and working through data to make conjectures and find a formula for the pattern.</entry>
+              </row>
+              <row>
+                <entry>Learners do drill and practice exercises to consolidate the learning of concepts and to master various skills. </entry>
+                <entry>Completing an exercise requiring routine procedures. </entry>
+              </row>
+              <row>
+                <entry>Learners are given opportunities to see the interrelatedness of the mathematics and to see how the different outcomes are related and connected. </entry>
+                <entry>While learners work through geometry problems, they are encouraged to make use of algebra.</entry>
+              </row>
+              <row>
+                <entry>Learners are required to pose problems for their educator and peer learners. </entry>
+                <entry>Learners are asked to make up an algebraic word problem (for which they also know the solution) for the person sitting next to them to solve.</entry>
+              </row>
+            </tbody>
+          
+
+</tgroup>
+</table>
+      </section>
+      <section id="id1172478478813">
+        <title>Outcomes</title>
+        <para id="id1172460342457">Summary of topics, outcomes and their relevance:</para>
+        <table id="id1172463103991" summary=""><tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry namest="c1" nameend="c3"><emphasis effect="bold">1. Functions – linear, quadratic, exponential, rational</emphasis></entry>
+              </row>
+              <row>
+                <entry namest="c1" nameend="c2"><emphasis effect="bold">Outcome</emphasis></entry>
+                <entry><emphasis effect="bold">Relevance</emphasis></entry>
+              </row>
+              <row>
+                <entry>10.1.1</entry>
+                <entry>Relationships between variables in terms of graphical, verbal and symbolic representations of functions (tables, graphs, words and formulae). </entry>
+                <entry morerows="2">Functions form a core part of learners’ mathematical understanding and reasoning processes in algebra. This is also an excellent opportunity for contextual mathematical modelling questions. </entry>
+              </row>
+              <row>
+                <entry>10.1.2</entry>
+                <entry>Generating graphs and generalising effects of parameters of vertical shifts and stretches and reflections about the x-axis.</entry>
+              </row>
+              <row>
+                <entry>10.1.3</entry>
+                <entry>Problem solving and graph work involving prescribed functions.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="id1172476278054" summary=""><tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry namest="c1" nameend="c3"><emphasis effect="bold">2. Number Patterns, Sequences and Series</emphasis></entry>
+              </row>
+              <row>
+                <entry namest="c1" nameend="c2"><emphasis effect="bold">Outcome</emphasis></entry>
+                <entry><emphasis effect="bold">Relevance</emphasis></entry>
+              </row>
+              <row>
+                <entry>10.2.1</entry>
+                <entry>Number patterns with constant difference.</entry>
+                <entry>Much of mathematics revolves around the identification of patterns.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="id1172464931785" summary=""><tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry namest="c1" nameend="c3"><emphasis effect="bold">3. Finance, Growth and Decay</emphasis></entry>
+              </row>
+              <row>
+                <entry namest="c1" nameend="c2"><emphasis effect="bold">Outcome</emphasis></entry>
+                <entry><emphasis effect="bold">Relevance</emphasis></entry>
+              </row>
+              <row>
+                <entry>10.3.1</entry>
+                <entry>Use simple and compound growth formulae.</entry>
+                <entry morerows="1">The mathematics of finance is very relevant to daily and long-term financial decisions learners will need to make in terms of investing, taking loans, saving and understanding exchange rates and their influence more globally.</entry>
+              </row>
+              <row>
+                <entry>10.3.2</entry>
+                <entry>Implications of fluctuating exchange rates.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="id1172470402476" summary=""><tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry namest="c1" nameend="c3"><emphasis effect="bold">4. Algebra</emphasis></entry>
+              </row>
+              <row>
+                <entry namest="c1" nameend="c2"><emphasis effect="bold">Outcome</emphasis></entry>
+                <entry><emphasis effect="bold">Relevance</emphasis></entry>
+              </row>
+              <row>
+                <entry>10.4.1</entry>
+                <entry>Identifying and converting forms of rational numbers.Working with simple surds that are not rational.</entry>
+                <entry morerows="3">Algebra provides the basis for mathematics learners to move from numerical calculations to generalising operations, simplifying expressions, solving equations and using graphs and inequalities in solving contextual problems.</entry>
+              </row>
+              <row>
+                <entry>10.4.2</entry>
+                <entry>Working with laws of integral exponents.Establish between which two integers a simple surd lies.Appropriately rounding off real numbers.</entry>
+              </row>
+              <row>
+                <entry>10.4.3</entry>
+                <entry>Manipulating and simplifying algebraic expressions (including multiplication and factorisation).</entry>
+              </row>
+              <row>
+                <entry>10.4.4</entry>
+                <entry>Solving linear, quadratic and exponential equations.Solving linear inequalities in one and two variables algebraically and graphically.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="id1172472772910" summary=""><tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry namest="c1" nameend="c3"><emphasis effect="bold">5. Differential Calculus</emphasis></entry>
+              </row>
+              <row>
+                <entry namest="c1" nameend="c2"><emphasis effect="bold">Outcome</emphasis></entry>
+                <entry><emphasis effect="bold">Relevance</emphasis></entry>
+              </row>
+              <row>
+                <entry>10.5.1</entry>
+                <entry>Investigate average rate of change between two independent values of a function.</entry>
+                <entry>The central aspect of rate of change to differential calculus is a basis to further understanding of limits, gradients and calculations and formulae necessary for work in engineering fields, e.g. designing roads, bridges etc. </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="id1172476674137" summary=""><tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry namest="c1" nameend="c3"><emphasis effect="bold">6. Probability</emphasis></entry>
+              </row>
+              <row>
+                <entry namest="c1" nameend="c2"><emphasis effect="bold">Outcome</emphasis></entry>
+                <entry><emphasis effect="bold">Relevance</emphasis></entry>
+              </row>
+              <row>
+                <entry>10.6.1</entry>
+                <entry>Compare relative frequency and theoretical probability.Use Venn diagrams to solve probability problems.Mutually exclusive and complementary events.Identity for any two events A and B.</entry>
+                <entry>This topic is helpful in developing good logical reasoning in learners and for educating them in terms of real-life issues such as gambling and the possible pitfalls thereof. </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="id1172465900127" summary=""><tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry namest="c1" nameend="c3"><emphasis effect="bold">7. Euclidean Geometry and Measurement</emphasis></entry>
+              </row>
+              <row>
+                <entry namest="c1" nameend="c2"><emphasis effect="bold">Outcome</emphasis></entry>
+                <entry><emphasis effect="bold">Relevance</emphasis></entry>
+              </row>
+              <row>
+                <entry>10.7.1</entry>
+                <entry>Investigate, form and try to prove conjectures about properties of special triangles, quadrilaterals and other polygons.Disprove false conjectures using counter-examples.Investigate alternative definitions of various polygons.</entry>
+                <entry morerows="1">The thinking processes and mathematical skills of proving conjectures and identifying false conjectures is more the relevance here than the actual content studied. The surface area and volume content studied in real-life contexts of designing kitchens, tiling and painting rooms, designing packages, etc. is relevant to the current and future lives of learners. </entry>
+              </row>
+              <row>
+                <entry>10.7.2</entry>
+                <entry>Solve problems involving surface area and volumes of solids and combinations thereof.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="id1172485747592" summary=""><tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry namest="c1" nameend="c3"><emphasis effect="bold">8. Trigonometry</emphasis></entry>
+              </row>
+              <row>
+                <entry namest="c1" nameend="c2"><emphasis effect="bold">Outcome</emphasis></entry>
+                <entry><emphasis effect="bold">Relevance</emphasis></entry>
+              </row>
+              <row>
+                <entry>10.8.1</entry>
+                <entry>Definitions of trig functions.Derive values for special angles.Take note of names for reciprocal functions.</entry>
+                <entry morerows="3">Trigonometry has several uses within society, including within navigation, music, geographical locations and building design and construction.</entry>
+              </row>
+              <row>
+                <entry>10.8.2</entry>
+                <entry>Solve problems in 2 dimensions.</entry>
+              </row>
+              <row>
+                <entry>10.8.3</entry>
+                <entry>Extend definition of basic trig functions to all four quadrants and know graphs of these functions.</entry>
+              </row>
+              <row>
+                <entry>10.8.4</entry>
+                <entry>Investigate and know the effects of a and q on the graphs of basic trig functions.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="id1172484066975" summary=""><tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry namest="c1" nameend="c3"><emphasis effect="bold">9. Analytical Geometry</emphasis></entry>
+              </row>
+              <row>
+                <entry namest="c1" nameend="c2"><emphasis effect="bold">Outcome</emphasis></entry>
+                <entry><emphasis effect="bold">Relevance</emphasis></entry>
+              </row>
+              <row>
+                <entry>10.9.1</entry>
+                <entry>Represent geometric figures on a Cartesian coordinate system.For any two points, derive and apply formula for calculating distance, gradient of line segment and coordinates of mid-point.</entry>
+                <entry>This section provides a further application point for learners’ algebraic and trigonometric interaction with the Cartesian plane. Artists and design and layout industries often draw on the content and thought processes of this mathematical topic.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="id1172466320241" summary=""><tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry namest="c1" nameend="c3"><emphasis effect="bold">10. Statistics</emphasis></entry>
+              </row>
+              <row>
+                <entry namest="c1" nameend="c2"><emphasis effect="bold">Outcome</emphasis></entry>
+                <entry><emphasis effect="bold">Relevance</emphasis></entry>
+              </row>
+              <row>
+                <entry>10.10.1</entry>
+                <entry>Collect, organise and interpret univariate numerical data to determine mean, median, mode, percentiles, quartiles, deciles, interquartile and semi-interquartile range.</entry>
+                <entry morerows="1">Citizens are daily confronted with interpreting data presented from the media. Often this data may be biased or misrepresented within a certain context. In any type of research, data collection and handling is a core feature. This topic also educates learners to become more socially and politically educated with regards to the media. </entry>
+              </row>
+              <row>
+                <entry>10.10.2</entry>
+                <entry>Identify possible sources of bias and errors in measurements.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1172472398475">Mathematics educators also need to ensure that the following important specific aims and general principles are applied in mathematics activities across all grades:</para>
+        <list id="id1172465620430" list-type="bulleted"><item>Calculators should only be used to perform standard numerical computations and verify calculations done by hand.</item>
+          <item>Real-life problems should be incorporated into all sections to keep mathematical modelling as an important focal point of the curriculum.</item>
+          <item>Investigations give learners the opportunity to develop their ability to be more methodical, to generalise and to make and justify and/or prove conjectures.</item>
+          <item>Appropriate approximation and rounding skills should be taught and continuously included and encouraged in activities.</item>
+          <item>The history of mathematics should be incorporated into projects and tasks where possible, to illustrate the human aspect and developing nature of mathematics. </item>
+          <item>Contextual problems should include issues relating to health, social, economic, cultural, scientific, political and environmental issues where possible. </item>
+          <item>Conceptual understanding of when and why should also feature in problem types.</item>
+          <item>Mixed ability teaching requires educators to challenge able learners and provide remedial support where necessary. </item>
+          <item>Misconceptions exposed by assessment need to be dealt with and rectified by questions designed by educators. </item>
+          <item>
+            Problem solving and cognitive development should be central to all mathematics teaching and learning so that learners can apply the knowledge effectively.
+          </item>
+        </list>
+      </section>
+    </section>
+  </content>
+</document>

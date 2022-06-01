@@ -1,0 +1,908 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Assessment and Assessment Support</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m40351</md:content-id>
+  <md:title>Assessment and Assessment Support</md:title>
+  <md:abstract>This module provides an overview of assessment and assessment support in the Grade 10 Maths Teachers' Guide.</md:abstract>
+  <md:uuid>cfef99af-726c-4860-b5a7-02b9ccd76419</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1171766239518">
+      <title>Assessment</title>
+      <para id="id1171763486904">“Educator assessment is part of everyday teaching and learning in the classroom. Educators discuss with learners, guide their work, ask and answer questions, observe, help, encourage and challenge. In addition, they mark and review written and other kinds of work. Through these activities they are continually finding out about their learners’ capabilities and achievements. This knowledge then informs plans for future work. It is this continuous process that makes up educator assessment. It should not be seen as a separate activity necessarily requiring the use of extra tasks or tests.” </para>
+      <para id="id1171758230222">As the quote above suggests, assessment should be incorporated as part of the classroom practice, rather than as a separate activity. Research during the past ten years indicates that learners get a sense of what they do and do not know, what they might do about this and how they feel about it, from frequent and regular classroom assessment and educator feedback. The educator’s perceptions of and approach to assessment (both formal and informal assessment) can have an influence on the classroom culture that is created with regard to the learners’ expectations of and performance in assessment tasks. Literature on classroom assessment distinguishes between two different purposes of assessment; assessment <emphasis effect="bold">of</emphasis> learning and assessment <emphasis effect="bold">for</emphasis> learning. </para>
+      <para id="id1171769817152">Assessment <emphasis effect="bold">of</emphasis> learning tends to be a more formal assessment and assesses how much learners have learnt or understood at a particular point in the annual teaching plan. The NCS provides comprehensive guidelines on the types of and amount of formal assessment that needs to take place within the teaching year to make up the school-based assessment mark. The school-based assessment mark contributes 25% of the final percentage of a learner’s promotion mark, while the end-of-year examination constitutes the other 75% of the annual promotion mark. Learners are expected to have 7 formal assessment tasks for their school-based assessment mark. The number of tasks and their weighting in the Grade 10 Mathematics curriculum is summarised below: </para>
+      <table id="id1171763495760" summary=""><tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry><emphasis effect="bold">Tasks</emphasis></entry>
+              <entry><emphasis effect="bold">Weight (%)</emphasis></entry>
+            </row>
+            <row>
+              <entry morerows="3">School-Based Assessment</entry>
+              <entry>Term 1</entry>
+              <entry>Test<newline/>Project/Investigation</entry>
+              <entry>10<newline/>20</entry>
+            </row>
+            <row>
+              <entry>Term 2</entry>
+              <entry>Assignment/TestExamination</entry>
+              <entry>10<newline/>30</entry>
+            </row>
+            <row>
+              <entry>Term 3</entry>
+              <entry>TestTest</entry>
+              <entry>10<newline/>10</entry>
+            </row>
+            <row>
+              <entry>Term 4</entry>
+              <entry>Test</entry>
+              <entry>10</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">School-Based Assessment Mark</entry>
+              <entry/>
+              <entry>100</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">School-Based Assessment Mark (as a % of Promotion Mark)</entry>
+              <entry/>
+              <entry>25</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">End-of-Year Examination</entry>
+              <entry/>
+              <entry>75</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">Promotion Mark</entry>
+              <entry/>
+              <entry>100</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171757410909">The following provides a brief explanation of each of the assessment tasks included in the assessment programme above. </para>
+      <section id="id1171768084096">
+        <title>Tests</title>
+        <para id="id1171749087508">All mathematics educators are familiar with this form of formal assessment. Tests include a variety of items/questions covering the topics that have been taught prior to the test. The new NCS also stipulates that mathematics tests should include questions that cover the following four types of cognitive levels in the stipulated weightings: </para>
+        <table id="id1171774437708" summary="Table describes the four types of cognitive levels in the stipulated weightings">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Cognitive Levels</emphasis></entry>
+                <entry><emphasis effect="bold">Description</emphasis></entry>
+                <entry><emphasis effect="bold">Weighting (%)</emphasis></entry>
+              </row>
+              <row>
+                <entry>Knowledge</entry>
+                <entry>Estimation and appropriate rounding of numbers.Proofs of prescribed theorems.Derivation of formulae.Straight recall.Identification and direct use of formula on information sheet (no changing of the subject).Use of mathematical facts.Appropriate use of mathematical vocabulary.</entry>
+                <entry>20</entry>
+              </row>
+              <row>
+                <entry>Routine Procedures</entry>
+                <entry>Perform well known procedures.Simple applications and calculations.Derivation from given information.Identification and use (including changing the subject) of correct formula.Questions generally similar to those done in class.</entry>
+                <entry>45</entry>
+              </row>
+              <row>
+                <entry>Complex Procedures</entry>
+                <entry>Problems involve complex calculations and/or higher reasoning.There is often not an obvious route to the solution.Problems need not be based on real world context.Could involve making significant connections between different representations.Require conceptual understanding.</entry>
+                <entry>25</entry>
+              </row>
+              <row>
+                <entry>Problem Solving</entry>
+                <entry>Unseen, non-routine problems (which are not necessarily difficult).Higher order understanding and processes are often involved.Might require the ability to break the problem down into its constituent parts.</entry>
+                <entry>10</entry>
+              </row>
+            </tbody>
+          
+</tgroup>
+</table>
+        <para id="id1171769285742">The breakdown of the tests over the four terms is summarised from the NCS assessment programme as follows: </para>
+        <para id="id8112635"><emphasis effect="bold">Term 1:</emphasis> One test of at least 50 marks, and one hour or two/three tests of at least 40 minutes   each.</para>
+        <para id="id1171759491287"><emphasis effect="bold">Term 2:</emphasis> Either one test (of at least 50 marks) or an assignment.</para>
+        <para id="id1171759527646"><emphasis effect="bold">Term 3:</emphasis> Two tests, each of at least 50 marks and one hour.</para>
+        <para id="id1171771939490"><emphasis effect="bold">Term 4:</emphasis> One test of at least 50 marks .</para>
+      </section>
+      <section id="id1171766795900">
+        <title>Projects / Investigations</title>
+        <para id="id1171764766950">Investigations and projects consist of open-ended questions that initiate and expand thought processes. Acquiring and developing problem-solving skills are an essential part of doing investigations and projects. These tasks provide learners with the opportunity to investigate, gather information, tabulate results, make conjectures and justify or prove these conjectures. Examples of investigations and projects and possible marking rubrics are provided in the next section on assessment support. The NCS assessment programme indicates that only one project or investigation (of at least 50 marks) should be included per year. Although the project/investigation is scheduled in the assessment programme for the first term, it could also be done in the second term. </para>
+      </section>
+      <section id="id1171757800380">
+        <title>Assignments</title>
+        <para id="id1171773885061">The NCS includes the following tasks as good examples of assignments: </para>
+        <list id="id1171751247369" list-type="bulleted">
+          <item>Open book test</item>
+          <item>Translation task</item>
+          <item>Error spotting and correction</item>
+          <item>Shorter investigation</item>
+          <item>Journal entry</item>
+          <item>Mind-map (also known as a metacog)</item>
+          <item>Olympiad (first round)</item>
+          <item>Mathematics tutorial on an entire topic</item>
+          <item>Mathematics tutorial on more complex/problem solving questions</item>
+        </list>
+        <para id="id1171759940218">The NCS assessment programme requires one assignment in term 2 (of at least 50 marks) which could also be a combination of some of the suggested examples above. More information on these suggested examples of assignments and possible rubrics are provided in the following section on assessment support. </para>
+      </section>
+      <section id="id1171753158756">
+        <title>Examinations</title>
+        <para id="id6150347">Educators are also all familiar with this summative form of assessment that is usually completed twice a year: mid-year examinations and end-of-year examinations. These are similar to the tests but cover a wider range of topics completed prior to each examination. The NCS stipulates that each examination should also cover the four cognitive levels according to their recommended weightings as summarised in the section above on tests. The following table summarises the requirements and information from the NCS for the two examinations.</para>
+        <table id="id1171768294863" summary=""><tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Examination</emphasis></entry>
+                <entry><emphasis effect="bold">Marks</emphasis></entry>
+                <entry><emphasis effect="bold">Breakdown</emphasis></entry>
+                <entry><emphasis effect="bold">Content and Mark Distribution</emphasis></entry>
+              </row>
+              <row>
+                <entry>Mid-Year Exam</entry>
+                <entry>100 50 + 50</entry>
+                <entry>One paper: 2 hours<newline/>or<newline/>Two papers: each of 1 hour </entry>
+                <entry>Topics completed</entry>
+              </row>
+              <row>
+                <entry morerows="1">End-of-Year Exam</entry>
+                <entry>100 +</entry>
+                <entry>Paper 1: 2 hours</entry>
+                <entry>Number patterns (±10)<newline/>Algebraic expressions, equations and inequalities (±25)<newline/>Functions (±35)<newline/>Exponents (±10)<newline/>Finance (±10)<newline/>Probability (±10)</entry>
+              </row>
+              <row>
+                <entry>100</entry>
+                <entry>Paper 2: 2 hours</entry>
+                <entry>Trigonometry (±45)<newline/>Analytical geometry (±15)<newline/>Euclidean geometry and measurement (±25)<newline/>Statistics (±15)</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1171772795562">In the annual teaching plan summary of the NCS in Mathematics for Grade 10, the pace setter section provides a detailed model of the suggested topics to be covered each week of each term and the accompanying formal assessment.</para>
+        <para id="id1171764520158">Assessment <emphasis effect="bold">for</emphasis> learning tends to be more informal and focuses on using assessment in and of daily classroom activities that can include: </para>
+        <list id="id1171756021370" list-type="bulleted">
+          <item>Marking homework</item>
+          <item>Baseline assessments</item>
+          <item>Diagnostic assessments</item>
+          <item>Group work</item>
+          <item>Class discussions</item>
+          <item>Oral presentations</item>
+          <item>Self-assessment</item>
+          <item>Peer-assessment</item>
+        </list>
+        <para id="id1171752982946">These activities are expanded on in the next section on assessment support and suggested marking rubrics are provided. Where formal assessment tends to restrict the learner to written assessment tasks, the informal assessment is necessary to evaluate and encourage the progress of the learners in their verbal mathematical reasoning and communication skills. It also provides a less formal assessment environment that allows learners to openly and honestly assess themselves and each other, taking responsibility for their own learning, without the heavy weighting of the performance (or mark) component. The assessment <emphasis effect="bold">for </emphasis>learning tasks should be included in the classroom activities at least once a week (as part of a lesson) to ensure that the educator is able to continuously evaluate the learners’ understanding of the topics covered as well as the effectiveness, and identify any possible deficiencies in his or her own teaching of the topics. </para>
+      </section>
+      <section id="id1171764476110">
+        <title>Assessment Support</title>
+        <para id="id1171769303034">A selection of explanations, examples and suggested marking rubrics for the assessment <emphasis effect="bold">of</emphasis> learning (formal) and the assessment <emphasis effect="bold">for</emphasis> learning (informal) forms of assessment discussed in the preceding section are provided in this section. </para>
+        <section id="id1171754916551">
+          <title>Baseline Assessment</title>
+          <para id="id1171759523315">Baseline assessment is a means of establishing:</para>
+          <list id="id1171769301550" list-type="bulleted">
+            <item>What prior knowledge a learner possesses </item>
+            <item>What the extent of knowledge is that they have regarding a specific learning area</item>
+            <item>The level they demonstrate regarding various skills and applications</item>
+            <item>The learner’s level of understanding of various learning areas</item>
+          </list>
+          <para id="id1171764602486">It is helpful to educators in order to assist them in taking learners from their individual point of departure to a more advanced level and to thus make progress. This also helps avoid large "gaps” developing in the learners’ knowledge as the learner moves through the education system. Outcomes-based education is a more learner-centered approach than we are used to in South Africa, and therefore the emphasis should now be on the level of each individual learner rather than that of the whole class. </para>
+          <para id="id1171763498004">The baseline assessments also act as a gauge to enable learners to take more responsibility for their own learning and to view their own progress. In the traditional assessment system, the weaker learners often drop from a 40% average in the first term to a 30% average in the fourth term due to an increase in workload, thus demonstrating no obvious progress. Baseline assessment, however, allows for an initial assigning of levels which can be improved upon as the learner progresses through a section of work and shows greater knowledge, understanding and skill in that area.</para>
+        </section>
+        <section id="id1171756077264">
+          <title>Diagnostic Assessments</title>
+          <para id="id1171769352820">These are used to specifically find out if any learning difficulties or problems exist within a section of work in order to provide the learner with appropriate additional help and guidance. The assessment helps the educator and the learner identify problem areas, misunderstandings, misconceptions and incorrect use and interpretation of notation. </para>
+          <para id="id1171775136476">Some points to keep in mind:</para>
+          <list id="id1171764618348" list-type="bulleted">
+            <item>Try not to test too many concepts within one diagnostic assessment.</item>
+            <item>Be selective in the type of questions you choose. </item>
+            <item>Diagnostic assessments need to be designed with a certain structure in mind. As an educator, you should decide exactly what outcomes you will be assessing and structure the content of the assessment accordingly. </item>
+            <item>The assessment is marked differently to other tests in that the mark is not the focus but rather the type of mistakes the learner has made.</item>
+          </list>
+          <para id="id1171774077907">An example of an understanding rubric for educators to record results is provided below:</para>
+          <para id="id1171759129964">0 - indicates that the learner has not grasped the concept at all and that there    appears to be a fundamental mathematical problem.</para>
+          <para id="id1171756101545">1 - indicates that the learner has gained some idea of the content, but is not    demonstrating an understanding of the notation and concept.</para>
+          <para id="id1171758837724">2 - indicates evidence of some understanding by the learner but further     consolidation is still required.</para>
+          <para id="id1171760776366">3 - indicates clear evidence that the learner has understood the concept and    is using the notation correctly.</para>
+          <para id="id1171767192558">An example of a diagnostic assessment to evaluate learners’ proficiency in calculator skills is provided below. There is a component of self-assessment as well as a component on educator assessment and how to group the various questions to diagnose any gaps or problems with learners’ calculator skills. </para>
+          <para id="id1171768457849">Calculator worksheet - diagnostic skills assessment</para>
+          <para id="id1171768457853">Question 1</para>
+          <para id="id1171763218064">Calculate:</para>
+          <list id="id1171757060089" mark-suffix=")" list-type="enumerated" number-style="lower-alpha"><item>242 + 63     ____________</item>
+            <item>2 – 36 x (114 + 25)    ____________</item>
+            <item>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mtext>144</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>25</m:mtext></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"144"+"25"} } {}</m:annotation></m:semantics></m:math>      ____________</item>
+            <item>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mtext>729</m:mtext><m:mn>4</m:mn></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot {4}  {"729"} } {}</m:annotation></m:semantics></m:math>       ____________</item>
+            <item>–312 + 6 + 879 – 321 + 18 901  ____________</item>
+          </list>
+          <para id="id1171769193626">Question 2</para>
+          <para id="id1171759890200">Calculate:</para>
+          <para id="id1171768775231">a) <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>7</m:mn></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {7} } + {  {1}  over  {3} } } {}</m:annotation></m:semantics></m:math>    = _________</para>
+          <para id="id1171765657972">b) <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>5</m:mn></m:mfrac><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 {  {1}  over  {5} }  -  {  {2}  over  {9} } } {}</m:annotation></m:semantics></m:math>  = _________</para>
+          
+          <para id="id1171754961121">c) <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>6</m:mn></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - 2 {  {5}  over  {6} } + {  {3}  over  {8} } } {}</m:annotation></m:semantics></m:math>   = _________</para>
+          <para id="id1171762219385">d) <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">−</m:mo><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mo stretchy="false">×</m:mo><m:mfrac><m:mn>5</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 -  {  {3}  over  {4} }  times  {  {5}  over  {7} } } {}</m:annotation></m:semantics></m:math>   = _________</para>
+          <para id="id1171758694240">e) <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mfrac><m:mn>9</m:mn><m:mtext>10</m:mtext></m:mfrac><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>8</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:mfenced><m:mo stretchy="false">÷</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {9}  over  {"10"} }  -  {  {8}  over  {9} }  right ) div  {  {3}  over  {5} } } {}</m:annotation></m:semantics></m:math>  = _________</para>
+          
+          <para id="id1171761456730">f) <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">×</m:mo><m:msup><m:mfenced open="(" close=")"><m:mfrac><m:mn>4</m:mn><m:mn>5</m:mn></m:mfrac></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">−</m:mo><m:mfenced open="(" close=")"><m:mfrac><m:mtext>19</m:mtext><m:mtext>25</m:mtext></m:mfrac></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 times  left ( {  {4}  over  {5} }  right ) rSup { size 8{2} }  -  left ( {  {"19"}  over  {"25"} }  right )} {}</m:annotation></m:semantics></m:math>   = _________</para>
+          
+          <para id="id1171751069969">g) <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mfrac><m:mn>9</m:mn><m:mn>4</m:mn></m:mfrac><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>4</m:mn><m:mtext>16</m:mtext></m:mfrac></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { {  {9}  over  {4} }  -  {  {4}  over  {"16"} } } } {}</m:annotation></m:semantics></m:math>   = _________</para>
+          <para id="id1171764617860">Self-Assessment Rubric:                                                        Name: ___________________</para>
+          <table id="id1171763767248" summary="A self-assessment rubric">
+<tgroup cols="5"><colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <tbody>
+                <row>
+                  <entry><emphasis effect="bold">Question</emphasis></entry>
+                  <entry><emphasis effect="bold">Answer</emphasis></entry>
+                  <entry><emphasis effect="bold">√</emphasis></entry>
+                  <entry><emphasis effect="bold">X</emphasis></entry>
+                  <entry><emphasis effect="bold">If X, write down sequence of keys pressed</emphasis></entry>
+                </row>
+                <row>
+                  <entry>1a)</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>1b)</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>1c)</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>1d)</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>1e)</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry><emphasis effect="bold">Subtotal</emphasis></entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>2a)</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>2b)</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>2c)</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>2d)</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>2e)</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>2f)</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>2g)</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry><emphasis effect="bold">Subtotal</emphasis></entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry><emphasis effect="bold">Total</emphasis></entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+              </tbody>
+            
+
+</tgroup>
+</table>
+          <para id="id1171768331460">Educator Assessment Rubric:</para>
+          <table id="id8259126" summary="Educator assessment rubric">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <tbody>
+                <row>
+                  <entry><emphasis effect="bold">Type of Skill</emphasis></entry>
+                  <entry><emphasis effect="bold">Competent</emphasis></entry>
+                  <entry><emphasis effect="bold">Needs Practice</emphasis></entry>
+                  <entry><emphasis effect="bold">Problem</emphasis></entry>
+                </row>
+                <row>
+                  <entry>Raising to a Power</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>Finding a Root</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>Calculations with Fractions</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>Brackets and Order of Operations</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>Estimation and Mental Control</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+              </tbody>
+            
+</tgroup>
+</table>
+          <para id="id1171752527970">Guidelines for Calculator Skills Assessment:</para>
+          <table id="id1171759286942" summary="Guidelines for calculator skills assessment">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry><emphasis effect="bold">Type of Skill</emphasis></entry>
+                  <entry><emphasis effect="bold">Sub-Division</emphasis></entry>
+                  <entry><emphasis effect="bold">Questions</emphasis></entry>
+                </row>
+                <row>
+                  <entry>Raising to a Power</entry>
+                  <entry>Squaring and cubing<newline/>Higher order powers</entry>
+                  <entry>1a, 2f<newline/>1b</entry>
+                </row>
+                <row>
+                  <entry>Finding a Root</entry>
+                  <entry>Square and cube roots<newline/>Higher order roots</entry>
+                  <entry>1c, 2g<newline/>1d</entry>
+                </row>
+                <row>
+                  <entry>Calculations with Fractions</entry>
+                  <entry>Basic operations<newline/>Mixed numbers<newline/>Negative numbers<newline/>Squaring fractions<newline/>Square rooting fractions</entry>
+                  <entry>2a, 2d<newline/>2b, 2c<newline/>1e, 2c<newline/>2f<newline/>2g</entry>
+                </row>
+                <row>
+                  <entry>Brackets and Order of Operations</entry>
+                  <entry>Correct use of brackets or order of operations</entry>
+                  <entry>1b, 1c, 2e, 2f, 2g</entry>
+                </row>
+                <row>
+                  <entry>Estimation and Mental Control</entry>
+                  <entry>Overall</entry>
+                  <entry>All</entry>
+                </row>
+              </tbody>
+            
+
+</tgroup>
+</table>
+          <para id="id1171751286428">Suggested guideline to allocation of overall levels</para>
+          <para id="id1171753481338">Level 1</para>
+          <list id="id8111746" list-type="bulleted">
+            <item>Learner is able to do basic operations on calculator.</item>
+            <item>Learner is able to do simple calculations involving fractions.</item>
+            <item>Learner does not display sufficient mental estimation and control techniques.</item>
+          </list>
+          <para id="id1171753651808">Level 2</para>
+          <list id="id1171751805785" list-type="bulleted">
+            <item>Learner is able to do basic operations on calculator.</item>
+            <item>Learner is able to square and cube whole numbers as well as find square and cube roots of numbers.</item>
+            <item>Learner is able to do simple calculations involving fractions as well as correctly execute calculations involving mixed numbers.</item>
+            <item>Learner displays some degree of mental estimation awareness.</item>
+          </list>
+          <para id="id1171763136655">Level 3</para>
+          <list id="id1171762084890" list-type="bulleted">
+            <item>Learner is able to do basic operations on calculator.</item>
+            <item>Learner is able to square and cube rational numbers as well as find square and cube roots of numbers.</item>
+            <item>Learner is also able to calculate higher order powers and roots.</item>
+            <item>Learner is able to do simple calculations involving fractions as well as correctly execute calculations involving mixed numbers.</item>
+            <item>Learner works correctly with negative numbers.</item>
+            <item>Learner is able to use brackets in certain calculations but has still not fully understood the order of operations that the calculator has been programmed to execute, hence the need for brackets.</item>
+            <item>Learner is able to identify possible errors and problems in their calculations but needs assistance solving the problem.</item>
+          </list>
+          <para id="id1171774423347">Level 4</para>
+          <list id="id1171768012548" list-type="bulleted">
+            <item>Learner is able to do basic operations on calculator.</item>
+            <item>Learner is able to square and cube rational numbers as well as find square and cube roots.</item>
+            <item>Learner is also able to calculate higher order powers and roots.</item>
+            <item>Learner is able to do simple calculations involving fractions as well as correctly execute calculations involving mixed numbers.</item>
+            <item>Learner works correctly with negative numbers.</item>
+            <item>Learner is able to work with brackets correctly and understands the need and use of brackets and the “= key” in certain calculations due to the nature of a scientific calculator.</item>
+            <item>Learner is able to identify possible errors and problems in their calculations and to find solutions to these in order to arrive at a “more viable” answer.</item>
+          </list>
+        </section>
+      </section>
+      <section id="id6874561">
+        <title>Other Short Diagnostic Tests </title>
+        <para id="id1171753217761">These are short tests that assess small quantities of recall knowledge and application ability on a day-to-day basis. Such tests could include questions on one or a combination of the following:</para>
+        <list id="id1171771774307" list-type="bulleted">
+          <item>Definitions</item>
+          <item>Theorems</item>
+          <item>Riders (geometry)</item>
+          <item>Formulae</item>
+          <item>Applications</item>
+          <item>Combination questions</item>
+        </list>
+        
+        
+        <para id="id1171763428963">Geometry</para>
+        <para id="id8208541">1.Points A (-5 ; -3), B (-1 ; 2) and C (9 ; -6) are the vertices of ∆ABC. </para>
+        <list id="id1171770380409" mark-suffix=")" list-type="enumerated" number-style="lower-alpha"><item>Calculate the gradients of AB and BC and hence show that angle ABC is equal to<emphasis effect="italics">
+<m:math><m:semantics><m:msup><m:mn>90</m:mn><m:mo stretchy="false">°</m:mo></m:msup><m:annotation encoding="StarMath 5.0">90^{circ}</m:annotation></m:semantics></m:math></emphasis>.        (5)</item>
+          <item>State the distance formula and use it to calculate the lengths of the sides AB, BC and AC of ∆ABC. (Leave your answers in surd form). (5)</item>
+        </list>
+        <para id="id1171765193858">Algebra</para>
+        <para id="id1171774348996">1. Write down the formal definition of an exponent as well as the exponent laws for integral exponents.        (6)</para>
+        
+        <para id="id1171767102218">2. Simplify: 
+<m:math><m:semantics><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:msup><m:mi>x</m:mi><m:mn>4</m:mn></m:msup><m:msup><m:mi>y</m:mi><m:mn>8</m:mn></m:msup><m:msup><m:mi>z</m:mi><m:mn>3</m:mn></m:msup></m:mrow><m:mn>4xy</m:mn></m:mfrac><m:mo stretchy="false">×</m:mo><m:mfrac><m:msup><m:mi>x</m:mi><m:mn>7</m:mn></m:msup><m:mrow><m:msup><m:mi>y</m:mi><m:mn>3</m:mn></m:msup><m:msup><m:mi>z</m:mi><m:mn>0</m:mn></m:msup></m:mrow></m:mfrac></m:mrow><m:annotation encoding="StarMath 5.0">{{2{x^4}{y^8}{z^3}} over {4xy}} times {{x^7} over {{y^3}{z^0}}}
+</m:annotation></m:semantics></m:math>       (4)</para>
+        <para id="id1171750142584">Trigonometry</para>
+        <para id="id1171753048437">1. A jet leaves an airport and travels 578 km in a direction of
+<m:math><m:semantics><m:msup><m:mn>50</m:mn><m:mo stretchy="false">°</m:mo></m:msup><m:annotation encoding="StarMath 5.0">50^{circ}</m:annotation></m:semantics></m:math>E of N. The pilot then changes direction and travels 321 km
+<m:math><m:semantics><m:msup><m:mn>10</m:mn><m:mo stretchy="false">°</m:mo></m:msup><m:annotation encoding="StarMath 5.0">10^{circ}</m:annotation></m:semantics></m:math>W of N.</para>
+        <list id="id1171763983866" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+          <item>How far away from the airport is the jet? (To the nearest kilometre) (5)</item>
+          <item>Determine the jet’s bearing from the airport.    (5)</item>
+        </list>
+        <section id="id1171768075031">
+          <title>Exercises</title>
+          <para id="id1171748925159">This entails any work from the textbook or other source that is given to the learner, by the educator, to complete either in class or at home. Educators should encourage learners not to copy each other’s work and be vigilant when controlling this work. It is suggested that such work be marked/controlled by a check list (below) to speed up the process for the educator. </para>
+          <para id="id8593380">The marks obtained by the learner for a specific piece of work need not be based on correct and/or incorrect answers but preferably on the following:</para>
+          <list id="id1171759722077" list-type="bulleted">
+            <item>the effort of the learner to produce answers.</item>
+            <item>the quality of the corrections of work that was previously incorrect.</item>
+            <item>the ability of the learner to explain the content of some selected examples (whether in writing or orally).</item>
+          </list>
+          <para id="id1171764302511">The following rubric can be used to assess exercises done in class or as homework: </para>
+          <table id="id1171768085615" summary=""><tgroup cols="4">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <tbody>
+                <row>
+                  <entry><emphasis effect="bold">Criteria</emphasis></entry>
+                  <entry namest="c2" nameend="c4"><emphasis effect="bold">Performance Indicators</emphasis></entry>
+                </row>
+                <row>
+                  <entry>Work Done</entry>
+                  <entry>2 All the work</entry>
+                  <entry>1 Partially completed</entry>
+                  <entry>0 No work done</entry>
+                </row>
+                <row>
+                  <entry>Work Neatly Done</entry>
+                  <entry>2 Work neatly done</entry>
+                  <entry>1 Some work not neatly done</entry>
+                  <entry>0 Messy and muddled</entry>
+                </row>
+                <row>
+                  <entry>Corrections Done</entry>
+                  <entry>2 All corrections done consistently</entry>
+                  <entry>1 At least half of the corrections done</entry>
+                  <entry>0 No corrections done</entry>
+                </row>
+                <row>
+                  <entry>Correct Mathematical Method</entry>
+                  <entry>2 Consistently</entry>
+                  <entry>1 Sometimes</entry>
+                  <entry>0 Never</entry>
+                </row>
+                <row>
+                  <entry>Understanding of Mathematical Techniques and Processes</entry>
+                  <entry>2 Can explain concepts and processes precisely</entry>
+                  <entry>1 Explanations are ambiguous or not focused</entry>
+                  <entry>0 Explanations are confusing or irrelevant</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </section>
+        <section id="id5617111">
+          <title>Journal entries</title>
+          <para id="id5634330">A journal entry is an attempt by a learner to express in the written word what is happening in Mathematics. It is important to be able to articulate a mathematical problem, and its solution in the written word. </para>
+          <para id="id1171774125503">This can be done in a number of different ways:</para>
+          <list id="id1171767027269" list-type="bulleted"><item>Today in Maths we learnt ______________________ </item>
+            <item>Write a letter to a friend, who has been sick, explaining what was done in class today.</item>
+            <item>Explain the thought process behind trying to solve a particular maths problem, e.g. sketch the graph of
+<m:math><m:semantics><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mi>–</m:mi><m:mrow><m:msup><m:mn>2x</m:mn><m:mn>2</m:mn></m:msup><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0">y = x^2 – 2x^2 + 1 </m:annotation></m:semantics></m:math>and explain how to sketch such a graph.</item>
+            <item>Give a solution to a problem, decide whether it is correct and if not, explain the possible difficulties experienced by the person who wrote the incorrect solution. </item>
+          </list>
+          <para id="id1171760260712">A journal is an invaluable tool that enables the educator to identify any mathematical misconceptions of the learners. The marking of this kind of exercise can be seen as subjective but a marking rubric can simplify the task. </para>
+          <para id="id1171772135288">The following rubric can be used to mark journal entries. The learners must be given the marking rubric before the task is done. </para>
+          <table id="id1171774193275" summary="A rubric for marking journal entries">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <tbody>
+                <row>
+                  <entry><emphasis effect="bold">Task</emphasis></entry>
+                  <entry><emphasis effect="bold">Competent (2 Marks)</emphasis></entry>
+                  <entry><emphasis effect="bold">Still Developing (1 Mark)</emphasis></entry>
+                  <entry><emphasis effect="bold">Not Yet Developed (0 Marks)</emphasis></entry>
+                </row>
+                <row>
+                  <entry>Completion in Time Limit?</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>Correctness of the Explanation?</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>Correct and Relevant use of Mathematical Language?</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>Is the Mathematics Correct?</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>Has the Concept Been Interpreted Correctly?</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+              </tbody>
+            
+
+</tgroup>
+</table>
+        </section>
+        <section id="id8254853">
+          <title>Translations</title>
+          <para id="id1171767575656">Translations assess the learner’s ability to translate from words into mathematical notation or to give an explanation of mathematical concepts in words. Often when learners can use mathematical language and notation correctly, they demonstrate a greater understanding of the concepts. </para>
+          <para id="id1171759441636">For example: </para>
+          <para id="id1171763190916">Write the letter of the correct expression next to the matching number:</para>
+          <para id="id1171764520016">x increased by 10                                                                                  a) xy</para>
+          <para id="id1171774439472">The product of x and y    b)
+<m:math><m:semantics><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:annotation encoding="StarMath 5.0">x^2</m:annotation></m:semantics></m:math></para>
+          <para id="id1171756644092">The sum of a certain number and    c) 
+<m:math><m:semantics><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:annotation encoding="StarMath 5.0">x^2</m:annotation></m:semantics></m:math></para>
+          <para id="id1171753288096">double that number     d) 29x </para>
+          <para id="id1171752156811">Half of a certain number multiplied by itself  e) ½ x 2</para>
+          <para id="id1171762640673">Two less than x     f) x + x + 2 </para>
+          <para id="id1171755798973">A certain number multiplied by itself   g) x 2</para>
+          <para id="id1171749782937">Two consecutive even numbers   h) x 29</para>
+          <para id="id1171767699145">x + x + x + …… to 29 terms    i) x + 2x</para>
+          <para id="id1171774180845">x.x.x.x.x….. to 29 factors    j) x + 10</para>
+          <para id="id1171752958469">A certain number divided by 2</para>
+        </section>
+        <section id="id1171765222894">
+          <title>Group Work</title>
+          <para id="id1171764052935">One of the principles in the NCS is to produce learners who are able to work effectively within a group. Learners generally find this difficult to do. Learners need to be encouraged to work within small groups. Very often it is while learning under peer assistance that a better understanding of concepts and processes is reached. Clever learners usually battle with this sort of task, and yet it is important that they learn how to assist and communicate effectively with other learners. </para>
+        </section>
+        <section id="id1171753709660">
+          <title>Mind Maps or Metacogs</title>
+          <para id="id1171758581277">A metacog or “mind map” is a useful tool. It helps to associate ideas and make connections that would otherwise be too unrelated to be linked. A metacog can be used at the beginning or end of a section of work in order to give learners an overall perspective of the work covered, or as a way of recalling a section already completed. It must be emphasised that it is not a summary. Whichever way you use it, it is a way in which a learner is given the opportunity of doing research in a particular field and can show that he/she has an understanding of the required section. </para>
+          <para id="id1171761660406">This is an open book form of assessment and learners may use any material they feel will assist them. It is suggested that this activity be practised, using other topics, before a test metacog is submitted for portfolio assessment purposes. </para>
+          <para id="id1171761660410">On completion of the metacog, learners must be able to answer insightful questions on the metacog. This is what sets it apart from being just a summary of a section of work. Learners must refer to their metacog when answering the questions, but may not refer to any reference material. Below are some guidelines to give to learners to adhere to when constructing a metacog as well as two examples to help you get learners started. A marking rubric is also provided. This should be made available to learners before they start constructing their metacogs. On the next page is a model question for a metacog, accompanied by some sample questions that can be asked within the context of doing a metacog about analytical geometry.</para>
+          <para id="id1171761804625">A basic metacog is drawn in the following way:</para>
+          <list id="id1171761150366" list-type="bulleted">
+            <item>Write the title/topic of the subject in the centre of the page and draw a circle around it.</item>
+            <item>For the first main heading of the subject, draw a line out from the circle in any direction, and write the heading above or below the line.</item>
+            <item>For sub-headings of the main heading, draw lines out from the first line for each subheading and label each one. </item>
+            <item>For individual facts, draw lines out from the appropriate heading line. </item>
+          </list>
+          <para id="id1171752206719">Metacogs are one’s own property. Once a person understands how to assemble the basic structure they can develop their own coding and conventions to take things further, for example to show linkages between facts. The following suggestions may assist educators and learners to enhance the effectiveness of their metacogs:</para>
+          <list id="id1171761432611" list-type="bulleted">
+            <item>Use single words or simple phrases for information. Excess words just clutter the metacog and take extra time to write down.</item>
+            <item>Print words – joined up or indistinct writing can be more difficult to read and less attractive to look at. </item>
+            <item>Use colour to separate different ideas – this will help your mind separate ideas where it is necessary, and helps visualisation of the metacog for easy recall. Colour also helps to show organisation.</item>
+            <item>Use symbols and images where applicable. If a symbol means something to you, and conveys more information than words, use it. Pictures also help you to remember information.</item>
+            <item>Use shapes, circles and boundaries to connect information – these are additional tools to help show the grouping of information.</item>
+          </list>
+          <para id="id1171756237591">Use the concept of analytical geometry as your topic and construct a mind map (or metacog) containing all the information (including terminology, definitions, formulae and examples) that you know about the topic of analytical geometry. </para>
+          <para id="id1171749996265">Possible questions to ask the learner on completion of their metacog: </para>
+          <list id="id1171749819262" list-type="bulleted">
+            <item>Briefly explain to me what the mathematics topic of analytical geometry entails.</item>
+            <item>Identify and explain the distance formula, the derivation and use thereof for me on your metacog.</item>
+            <item>How does the calculation of gradient in analytical geometry differ (or not) from the approach used to calculate gradient in working with functions? </item>
+          </list>
+          <para id="id1171749483498">A suggested simple rubric for marking a metacog:</para>
+          <table id="id1171773440904" summary="A suggested rubric for marking a metacog">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <tbody>
+                <row>
+                  <entry><emphasis effect="bold">Task</emphasis></entry>
+                  <entry><emphasis effect="bold">Competent (2 Marks)</emphasis></entry>
+                  <entry><emphasis effect="bold">Still Developing (1 Mark)</emphasis></entry>
+                  <entry><emphasis effect="bold">Not Yet Developed (0 Marks)</emphasis></entry>
+                </row>
+                <row>
+                  <entry>Completion in Time Limit</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>Main Headings</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>Correct Theory (Formulae, Definitions, Terminology etc.)</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>Explanation</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>“Readability”</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+              </tbody>
+            
+</tgroup>
+</table>
+          <para id="id4998202">10 marks for the questions, which are marked using the following scale:</para>
+          <para id="id1171760313593">0 - no attempt or a totally incorrect attempt has been made</para>
+          <para id="id1171762345676">1 - a correct attempt was made, but the learner did not get the correct answer</para>
+          <para id="id1171749930403">2 - a correct attempt was made and the answer is correct</para>
+        </section>
+        <section id="id1171753163123">
+          <title>Investigations</title>
+          <para id="id1171764030481">Investigations consist of open-ended questions that initiate and expand thought processes. Acquiring and developing problem-solving skills are an essential part of doing investigations. </para>
+          <para id="id1171752249478">It is suggested that 2 – 3 hours be allowed for this task. During the first 30 – 45 minutes learners could be encouraged to talk about the problem, clarify points of confusion, and discuss initial conjectures with others. The final written-up version should be done individually though and should be approximately four pages. </para>
+          <para id="id1171749939267">Assessing investigations may include feedback/ presentations from groups or individuals on the results keeping the following in mind:</para>
+          <list id="id1171752175002" list-type="bulleted">
+            <item>following of a logical sequence in solving the problems</item>
+            <item>pre-knowledge required to solve the problem</item>
+            <item>correct usage of mathematical language and notation</item>
+            <item>purposefulness of solution</item>
+            <item>quality of the written and oral presentation </item>
+          </list>
+          <para id="id1171765230169">Some examples of suggested marking rubrics are included on the next few pages, followed by a selection of topics for possible investigations. </para>
+          <para id="id1171773072803">The following guidelines should be provided to learners before they begin an investigation: </para>
+          <para id="id1171763622278">General Instructions Provided to Learners</para>
+          <list id="id1171758305208" list-type="enumerated" number-style="arabic">
+            <item>You may choose any one of the projects/investigations given (see model question on investigations)</item>
+            <item>You should follow the instructions that accompany each task as these describe the way in which the final product must be presented.</item>
+            <item>You may discuss the problem in groups to clarify issues, but each individual must write-up their own version.</item>
+            <item>Copying from fellow learners will cause the task to be disqualified.</item>
+            <item>Your educator is a resource to you, and though they will not provide you with answers / solutions, they may be approached for hints.</item>
+          </list>
+          
+          <para id="id1171775115040">The Presentation</para>
+          <para id="id1171759139177">The investigation is to be handed in on the due date, indicated to you by your educator. It should have as a minimum:</para>
+          <list id="id1171758612791" list-type="bulleted">
+            <item>A description of the problem.</item>
+            <item>A discussion of the way you set about dealing with the problem.</item>
+            <item>A description of the final result with an appropriate justification of its validity.</item>
+            <item>Some personal reflections that include mathematical or other lessons learnt, as well as the feelings experienced whilst engaging in the problem.</item>
+            <item>The written-up version should be attractively and neatly presented on about <emphasis effect="bold">four</emphasis> A4 pages.</item>
+            <item>Whilst the use of technology is encouraged in the presentation, the mathematical content and processes must remain the major focus.</item>
+          </list>
+          <para id="id1171754636769">Below are some examples of possible rubrics to use when marking investigations:</para>
+          <para id="id1171758546972">Example 1:</para>
+          <table id="id1171767594906" summary="Examples of rubrics">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry><emphasis effect="bold">Level of Performance</emphasis></entry>
+                  <entry><emphasis effect="bold">Criteria</emphasis></entry>
+                </row>
+                <row>
+                  <entry>4</entry>
+                  <entry>
+                    <list id="id1171761748747" list-type="bulleted">
+                      <item>Contains a complete response.</item>
+                      <item>Clear, coherent, unambiguous and elegant explanation.</item>
+                      <item>Includes clear and simple diagrams where appropriate.</item>
+                      <item>Shows understanding of the question’s mathematical ideas and processes.</item>
+                      <item>Identifies all the important elements of the question.</item>
+                      <item>Includes examples and counter examples.</item>
+                      <item>Gives strong supporting arguments.</item>
+                      <item>Goes beyond the requirements of the problem. </item>
+                    </list>
+                  </entry>
+                </row>
+                <row>
+                  <entry>3</entry>
+                  <entry>
+                    <list id="id1171773652763" list-type="bulleted">
+                      <item>Contains a complete response.</item>
+                      <item>Explanation less elegant, less complete.</item>
+                      <item>Shows understanding of the question’s mathematical ideas and processes.</item>
+                      <item>Identifies all the important elements of the question.</item>
+                      <item>Does not go beyond the requirements of the problem.</item>
+                    </list>
+                  </entry>
+                </row>
+                <row>
+                  <entry>2</entry>
+                  <entry>
+                    <list id="id1171759072859" list-type="bulleted">
+                      <item>Contains an incomplete response.</item>
+                      <item>Explanation is not logical and clear.</item>
+                      <item>Shows some understanding of the question’s mathematical ideas and processes.</item>
+                      <item>Identifies some of the important elements of the question.</item>
+                      <item>Presents arguments, but incomplete.</item>
+                      <item>Includes diagrams, but inappropriate or unclear.</item>
+                    </list>
+                  </entry>
+                </row>
+                <row>
+                  <entry>1</entry>
+                  <entry>
+                    <list id="id1171751178640" list-type="bulleted">
+                      <item>Contains an incomplete response.</item>
+                      <item>Omits significant parts or all of the question and response.</item>
+                      <item>Contains major errors.</item>
+                      <item>Uses inappropriate strategies.</item>
+                    </list>
+                  </entry>
+                </row>
+                <row>
+                  <entry>0</entry>
+                  <entry>
+                    <list id="id1171749324736" list-type="bulleted">
+                      <item>No visible response or attempt</item>
+                    </list>
+                  </entry>
+                </row>
+              </tbody>
+            
+</tgroup>
+</table>
+        </section>
+        <section id="id1171773882348">
+          <title>Orals</title>
+          <para id="id1171760855410">An oral assessment involves the learner explaining to the class as a whole, a group or the educator his or her understanding of a concept, a problem or answering specific questions. The focus here is on the correct use of mathematical language by the learner and the conciseness and logical progression of their explanation as well as their communication skills.</para>
+          <para id="id1171755315603">Orals can be done in a number of ways:</para>
+          <list id="id1171749333979" list-type="bulleted">
+            <item>A learner explains the solution of a homework problem chosen by the educator.</item>
+            <item>The educator asks the learner a specific question or set of questions to ascertain that the learner understands, and assesses the learner on their explanation.</item>
+            <item>The educator observes a group of learners interacting and assesses the learners on their contributions and explanations within the group.</item>
+            <item>A group is given a mark as a whole, according to the answer given to a question by any member of a group.</item>
+          </list>
+          <para id="id1171762637178">An example of a marking rubric for an oral:</para>
+          <para id="id7304150">1 - the learner has understood the question and attempts to answer it</para>
+          <para id="id1171753365015">2 - the learner uses correct mathematical language</para>
+          <para id="id1171763786899">2 - the explanation of the learner follows a logical progression</para>
+          <para id="id1171766416510">2 - the learner’s explanation is concise and accurate</para>
+          <para id="id1171752207275">2 - the learner shows an understanding of the concept being explained</para>
+          <para id="id1171752888387">1 - the learner demonstrates good communication skills</para>
+          <para id="id1171749883516">Maximum mark = 10</para>
+          <para id="id1171752378030">An example of a peer-assessment rubric for an oral: </para>
+          <para id="id1171758737890">My name: ________________________</para>
+          <para id="id1171764300335">Name of person I am assessing: _______________________</para>
+          <table id="id1171754916343" summary="A peer assessment rubric for an oral">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry><emphasis effect="bold">Criteria</emphasis></entry>
+                  <entry><emphasis effect="bold">Mark awarded</emphasis></entry>
+                  <entry><emphasis effect="bold">Maximum Mark</emphasis></entry>
+                </row>
+                <row>
+                  <entry>Correct Answer</entry>
+                  <entry/>
+                  <entry>2</entry>
+                </row>
+                <row>
+                  <entry>Clarity of Explanation</entry>
+                  <entry/>
+                  <entry>3</entry>
+                </row>
+                <row>
+                  <entry>Correctness of Explanation</entry>
+                  <entry/>
+                  <entry>3</entry>
+                </row>
+                <row>
+                  <entry>Evidence of Understanding</entry>
+                  <entry/>
+                  <entry>2</entry>
+                </row>
+                <row>
+                  <entry>Total</entry>
+                  <entry/>
+                  <entry>10</entry>
+                </row>
+              </tbody>
+            
+</tgroup>
+</table>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,81 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Chapter Contexts</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m40352</md:content-id>
+  <md:title>Chapter Contexts</md:title>
+  <md:abstract>An overview of the chapter contexts of the Siyavula Grade 10 Maths textbook.</md:abstract>
+  <md:uuid>b6dee4f9-4a9c-4461-ae22-5cbcb6e6dede</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1168688901225">
+      <title>Chapter Contexts</title>
+      <section id="id1168672610628">
+        <title>Functions and Graphs</title>
+        <para id="id5829516">Functions form a core part of learners’ mathematical understanding and reasoning processes in algebra. This is also an excellent opportunity for contextual mathematical modelling questions.</para>
+      </section>
+      <section id="id5746325">
+        <title>Number Patterns</title>
+        <para id="id1168674078841">Much of mathematics revolves around the identification of patterns.</para>
+      </section>
+      <section id="id6952845">
+        <title>Finance, Growth and Decay</title>
+        <para id="id6246361">The mathematics of finance is very relevant to daily and long-term financial decisions learners will need to take in terms of investing, taking loans, saving and understanding exchange rates and their influence more globally.</para>
+      </section>
+      <section id="id1168681587294">
+        <title>Algebra</title>
+        <para id="id1168672122555">Algebra provides the basis for mathematics learners to move from numerical calculations to generalising operations, simplifying expressions, solving equations and using graphs and inequalities in solving contextual problems.</para>
+      </section>
+      <section id="id1168689973797">
+        <title>Products and Factors</title>
+        <para id="id6241904">Being able to multiply out and factorise are core skills in the process of simplifying expressions and solving equations in mathematics. </para>
+      </section>
+      <section id="id1168679556628">
+        <title>Equations and Inequalities</title>
+        <para id="id1168668738442">If learners are to later work competently with functions and the graphing and interpretation thereof, their understanding and skills in solving equations and inequalities will need to be developed. </para>
+      </section>
+      <section id="id4746922">
+        <title>Estimating Surds</title>
+        <para id="id1168683063157">Estimation is an extremely important component within mathematics. It allows learners to work with a calculator or present possible solutions while still being able to gauge how accurate and realistic their answers may be. This is relevant for other subjects too. For example, a learner working in biology may need to do a calculation to find the size of the average human kidney. An erroneous interpretation or calculation may result in an answer of 900 m. Without estimation skills, the learner may not query the possibility of such an answer and consider that it should rather be 9 cm. Estimating surds facilitates the further development of this skill of estimation.</para>
+      </section>
+      <section id="id1168678877589">
+        <title>Exponentials</title>
+        <para id="id1168688633753">Exponential notation is a central part of mathematics in numerical calculations as well as algebraic reasoning and simplification. It is also a necessary component for learners to understand and appreciate certain financial concepts such as compound interest and growth and decay. </para>
+      </section>
+      <section id="id1168685383798">
+        <title>Irrational Numbers &amp; Rounding Off</title>
+        <para id="id1168678473839">Identifying irrational numbers and knowing their estimated position on a number line or graph is an important part of any mathematical calculations and processes that move beyond the basic number system of whole numbers and integers. Rounding off irrational numbers (such as the value of π) when needed allows mathematics learners to work more efficiently with numbers that would otherwise be difficult to “pin down”, use and comprehend. </para>
+      </section>
+      <section id="id1168685774433">
+        <title>Rational Numbers</title>
+        <para id="id1168664885124">Once learners have grasped the basic number system of whole numbers and integers, it is vital that their understanding of the numbers between integers is also expanded. This incorporates their dealing with fractions, decimals and surds which form a central part of most mathematical calculations in real-life contextual issues. </para>
+      </section>
+      <section id="id1168663602196">
+        <title>Differential Calculus: Average Gradient</title>
+        <para id="id1168681016560">The central aspect of rate of change to differential calculus is a basis to further understanding of limits, gradients and calculations and formulae necessary for work in engineering fields, e.g. designing roads, bridges etc.</para>
+      </section>
+      <section id="id1168663186146">
+        <title>Probability</title>
+        <para id="id1168664694010">This topic is helpful in developing good logical reasoning in learners and for educating them in terms of real-life issues such as gambling and the possible pitfalls thereof.</para>
+      </section>
+      <section id="id1168675649506">
+        <title>Euclidean Geometry and Measurement</title>
+        <para id="id1168669416232">The thinking processes and mathematical skills of proving conjectures and identifying false conjectures is more the relevance here than the actual content studied. The surface area and volume content studied in real-life contexts of designing kitchens, tiling and painting rooms, designing packages, etc. is relevant to the current and future lives of learners.</para>
+        
+      </section>
+      <section id="id6096552">
+        <title>Trigonometry</title>
+        <para id="id1168684468610">Trigonometry has several uses within society, including within navigation, music, geographical locations and building design and construction.</para>
+      </section>
+      <section id="id4701923">
+        <title>Analytical Geometry</title>
+        <para id="id1168691052681">This section provides a further application point for learners’ algebraic and trigonometric interaction with the Cartesian plane. Artists and design and layout industries often draw on the content and thought processes of this mathematical topic.</para>
+      </section>
+      <section id="id1168689238108">
+        <title>Statistics</title>
+        <para id="id1168672447955">Citizens are daily confronted with interpreting data presented from the media. Often this data may be biased or misrepresented within a certain context. In any type of research, data collection and handling is a core feature. This topic also educates learners to become more socially and politically educated with regards to the media.</para>
+        
+      </section>
+    </section>
+  </content>
+</document>
